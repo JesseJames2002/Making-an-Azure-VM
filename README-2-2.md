@@ -1,7 +1,9 @@
-<p align="center">
+<p align="center">Creating a VM
   </a>
 </p>
 <br>
+Using: Microsoft Azure
+and remote desktop
 
 # 🚀 Getting Started
 
